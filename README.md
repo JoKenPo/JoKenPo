@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Tenho como objetivo sempre desenvolver como programador e como pessoa. Hoje sempre melhor que ontem.
+  Tenho como objetivo sempre me desenvolver como programador e como pessoa. Hoje sempre melhor que ontem.
   Atualmente trabalhando como <strong>Full Stack</strong>.<br>
 </p>
 
