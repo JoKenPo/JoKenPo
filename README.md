@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/eduardo-flor%C3%AAncio-0120716a/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/eduardo-florencio/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </p>  
