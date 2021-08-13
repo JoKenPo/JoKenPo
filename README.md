@@ -1,4 +1,30 @@
-### Hi there 👋
+### Hi there 👋, I'm Eduardo Almeida
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  I aim to always develop myself as a programmer and as a person.<br> 
+  Today is always better than yesterday. <br><br>
+  Currently working as <strong>Full Stack</strong> on Grupo HOPE.<br>
+</p>
+
+<p align="left">
+  💌 How to reach me
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduardo-florencio/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+</p>  
+
+<p align="left">
+  <div>
+    <a href="https://github.com/JoKenPo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoKenPo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoKenPo&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
+</p>
+
 
 <!--
 **JoKenPo/JoKenPo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,19 +40,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<p align="left"> 
-  I aim to always develop myself as a programmer and as a person.<br> 
-  Today is always better than yesterday. <br><br>
-  Currently working as <strong>Full Stack</strong>.<br>
-</p>
-
-<p align="left">
-  💌 Social media: ⤵️
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/eduardo-florencio/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-</p>  
