@@ -5,7 +5,7 @@
 <p align="left"> 
   I aim to always develop myself as a programmer and as a person.<br> 
   Today is always better than yesterday. <br><br>
-  Currently working as <strong>Full Stack</strong> on Grupo HOPE.<br>
+  Currently working as <strong>Full Stack</strong> on Spread.<br>
 </p>
 
 <p align="left">
