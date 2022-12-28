@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💌 How to reach me
+  How to reach me ⤵
 </p>
 
 <p align="left">
