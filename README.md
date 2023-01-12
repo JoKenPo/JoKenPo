@@ -1,16 +1,5 @@
-### Hi there 👋, I'm Eduardo Almeida
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
-
-<p align="left"> 
-  I aim to always develop myself as a programmer and as a person.<br> 
-  Today is always better than yesterday. <br><br>
-  Currently working as <strong>Full Stack</strong> on Zenvia.<br>
-</p>
-
-<p align="left">
-  How to reach me ⤵
-</p>
+# Hi there 👋, I'm Eduardo Almeida
+<div align="center">
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardo-florencio/" alt="Linkedin">
@@ -19,6 +8,14 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>  
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  I aim to always develop myself as a programmer and as a person.<br> 
+  Today is always better than yesterday. <br><br>
+  Currently working as <strong>Full Stack</strong> on Zenvia.<br>
+</p>
 
 <p align="left">
   <div>
