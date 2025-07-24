@@ -18,7 +18,7 @@
 > And I believe the environment matters too. <br>
 > Today is always better than yesterday.
 
-- 👨‍💻 Currently working as a **Full Stack Developer** at Zenvia  
+- 👨‍💻 Currently working as a **Semi-Senior Software Engineer ** at Mercado Livre  
 - 📚 Taking an **MBA in Computer Science** at **USP/ESALQ**
 
 <br>
